@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tte:home|Door43 (tte)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tte|d43-tte repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tte/archive/master.zip|d43-tte.zip]]
+
+**Recent Changes**
+{{changes>ns = tte}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tte|Ethnologue data]]
+
